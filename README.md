@@ -7,3 +7,5 @@
 
 [2. Mint](https://imangali2002.github.io/Mint/ "WEB HTML CSS")
 
+[3. Gipsolit](https://imangali2002.github.io/gipsolit/ "WEB HTML CSS")
+
